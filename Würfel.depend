@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694703643 source:c:\dev\prozd\würfel\main.c
+	<stdio.h>
+	<stdlib.h>
+
